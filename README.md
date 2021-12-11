@@ -21,4 +21,4 @@ Aplikasi Rental Mobil Sederhana Menggunakan Codeigniter 3
   <li>Dashboard Member Untuk Posting Artikel, Tetapi harus menunggu persetujuan admin terlebih dahulu.</li>
 </ul>
 <br>
-<h3>Penjelasan</h3>
+
