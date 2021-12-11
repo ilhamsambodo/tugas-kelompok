@@ -21,4 +21,11 @@ Aplikasi Rental Mobil Sederhana Menggunakan Codeigniter 3
   <li>Dashboard Member Untuk Posting Artikel, Tetapi harus menunggu persetujuan admin terlebih dahulu.</li>
 </ul>
 <br>
+<h3>Anggota kelompok 2</h3>
+<ul>
+	<li>1. Andika Wahyu Saputra (12200194> </li>
+	<li>2. Ilham Sambodo (12200981) </li>
+	<li>3. Dwi Novelya Putri (12200853) </li>
+	<li>4. Rofiatul Khasanah (12201056) </li>
+</ul>
 
