@@ -1,4 +1,4 @@
-# rental-mobil-ci
+# habanero_rental_mobil
 Aplikasi Rental Mobil Sederhana Menggunakan Codeigniter 3
 <br>
 <p>Aplikasi website rental mobil sederhana yang di buat dengan bahasa program php, javascript, dan menggunakan DBMS (mysql)</p>
@@ -22,8 +22,3 @@ Aplikasi Rental Mobil Sederhana Menggunakan Codeigniter 3
 </ul>
 <br>
 <h3>Penjelasan</h3>
-1. Website ini sangat masih sederhana, sehingga anda bisa mengembangkannya lagi.
-
-2. Semua Gratis source yang saya berikan kepada anda.
-
-3. Jika kamu menyukainya, silahkan berikan bintang ya :D
